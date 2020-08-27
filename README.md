@@ -201,4 +201,4 @@ The [**Google Sheets Setup & Authentication**](https://drive.google.com/open?id=
     ```
 ---
 
-Copyright &copy; 2019 Stitch
+Copyright &copy; 2020 Stitch
